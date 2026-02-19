@@ -1,5 +1,7 @@
+<style>
 Alpine marmots (мамэтс)
-
+   h2 {}
+</style>
 Alpine marmots are among the most charismatic inhabitants of the central European mountains (маунтинс). 
 They stand out for their social life and their ability to adapt to the harshest winters. 
 They live in colonies that cooperate with each other and use sharp whistles to warn of predators. 
@@ -12,5 +14,3 @@ has become a symbol of high mountain life.
  
 Observing them in the wild allows us to admire their social behaviour and survival skills, connecting visitors 
 with nature in its most authentic state.
-
-https://psy-chat.ru/therapist/anastasija-goncharova
