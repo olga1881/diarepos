@@ -1,4 +1,7 @@
 <html>
+<head>
+SSS
+</head>
 <body>
 Karlovy Vary
 In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity 
