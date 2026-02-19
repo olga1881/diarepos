@@ -1,3 +1,5 @@
+<html>
+<body>
 Karlovy Vary
 In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity 
 around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of 
@@ -26,3 +28,5 @@ Set beside a small pond, the palace's reflection doubles the spectacle, turning 
 of Madrid's most photogenic winter scenes. Today, the Crystal Palace serves as an exhibition space 
 for the Museo Reina Sofía, Spain's national museum of modern and contemporary art, blending historic 
 architecture with rotating contemporary installations in one of Madrid's most beloved green spaces.
+/<body>
+</html>
