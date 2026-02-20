@@ -1,4 +1,6 @@
 <head>
+</head>
+<b>
 Emerald Bay and Fannette Island, Lake Tahoe, California, United States
 You know a place holds stories when geologists, filmmakers and local folklore all claim it for different reasons. 
 Lake Tahoe, straddling the border between California and Nevada, United States, fits that bill perfectly. 
@@ -12,3 +14,4 @@ its water takes on a lighter hue. Beneath the surface rest old launches and barg
 In the middle, Fannette Island rises with a small stone 'Tea House,' a 1920s structure built by philanthropist Lora Knight, who also 
 commissioned Vikingsholm nearby. And the story doesn't end here. Local stories mention 'Tahoe Tessie,' the lake's mythical creature. 
 You never know—maybe you'll catch a ripple that makes you look twice.
+</b>
