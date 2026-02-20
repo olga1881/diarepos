@@ -3,6 +3,7 @@
 SSS
 </head>
 <body>
+<text>
 Karlovy Vary
 In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity 
 around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of 
